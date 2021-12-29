@@ -21,7 +21,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub Repository
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/HCHS-CSDC/CSDC-OJ-Uptime
     - title: CSDC OJ
       href: https://csdc.tw
   favicon: https://avatars.githubusercontent.com/u/96825441
