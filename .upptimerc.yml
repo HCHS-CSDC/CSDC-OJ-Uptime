@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: CSDC OJ
-    url: https://cdsc.tw
+    url: https://csdc.tw
     assignees:
       - CYTsai
 
