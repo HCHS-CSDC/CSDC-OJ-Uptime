@@ -9,8 +9,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://hchs-csdc.github.io/CSDC-OJ-Uptime/
-  #baseUrl: /CSDC-OJ-Uptime
+  baseUrl: /CSDC-OJ-Uptime
   logoUrl: https://avatars.githubusercontent.com/u/96825441
   name: 竹中軟研OJ狀態
   theme: night
