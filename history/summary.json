@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/csdc.tw",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "3.56%",
-    "uptimeDay": "3.56%",
-    "uptimeWeek": "3.56%",
-    "uptimeMonth": "3.56%",
-    "uptimeYear": "3.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 712,
     "timeDay": 712,
     "timeWeek": 712,
     "timeMonth": 712,
     "timeYear": 712,
-    "dailyMinutesDown": {
-      "2021-12-29": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
