@@ -61,13 +61,13 @@ i18n:
   incidentOpenedAt: 發生於
   incidentClosedAt: 結束於
   incidentSubscribe: 前往issues頁面
-  incidentViewOnGitHub: 前往GitHub
+  incidentViewOnGitHub: 前往issues頁面
   incidentCommentSummary: 於 $DATE 由 $AUTHOR 回應
   incidentBack: ← 返回至事件列表
   pastIncidents: "過去事件"
   pastIncidentsResolved: 於 $MINUTES 分鐘內包含 $POSTS 則回應
   #liveStatus: Live Status
-  #overallUptime: "平均回應時間 $UPTIME"
+  overallUptime: "整體上線率: $UPTIME"
   #overallUptimeTitle: Overall uptime
   averageResponseTime: "平均回應時間: $TIMEms"
   averageResponseTimeTitle: 平均回應時間
