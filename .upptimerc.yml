@@ -6,7 +6,7 @@ sites:
   - name: CSDC OJ
     url: https://csdc.tw
   - name: CSDC Blog
-    url: https://blog.csdc.tw
+    url: https://csdc-hchs.blogspot.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,7 +27,7 @@ status-website:
     - title: Facebook
       href: https://www.facebook.com/hchscsdc/
     - title: Blog
-      href: https://blog.csdc.tw
+      href: https://csdc-hchs.blogspot.com/
   favicon: https://avatars.githubusercontent.com/u/96825441
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
