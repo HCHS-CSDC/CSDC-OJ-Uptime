@@ -4,7 +4,7 @@
     "url": "https://csdc.tw",
     "icon": "https://favicons.githubusercontent.com/csdc.tw",
     "slug": "csdc-oj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-30": 0
+    }
   },
   {
     "name": "CSDC Blog",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/csdc-hchs.blogspot.com",
     "slug": "csdc-blog",
     "status": "up",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "25.49%",
+    "uptimeDay": "25.49%",
+    "uptimeWeek": "25.49%",
+    "uptimeMonth": "25.49%",
+    "uptimeYear": "25.49%",
     "time": 478,
     "timeDay": 478,
     "timeWeek": 478,
