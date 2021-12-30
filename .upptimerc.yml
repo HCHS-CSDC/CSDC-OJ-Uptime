@@ -66,7 +66,7 @@ i18n:
   incidentBack: ← 返回至事件列表
   pastIncidents: "過去事件"
   pastIncidentsResolved: 於 $MINUTES 分鐘內包含 $POSTS 則回應
-  #liveStatus: Live Status
+  liveStatus: 即時狀態
   overallUptime: "整體上線率: $UPTIME"
   overallUptimeTitle: 整體上線率
   averageResponseTime: "平均回應時間: $TIMEms"
