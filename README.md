@@ -20,7 +20,7 @@
 
 <!--end: status pages-->
 
-[**前往察看狀態 →**](https://hchs-csdc.github.io/CSDC-OJ-Uptime/)
+[**前往查看狀態 →**](https://hchs-csdc.github.io/CSDC-OJ-Uptime/)
 
 ## 📄 授權條款
 

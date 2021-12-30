@@ -36,3 +36,69 @@ status-website:
   favicon: https://avatars.githubusercontent.com/u/96825441
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  status: "狀態"
+  history: "歷史紀錄"
+  responseTime: "回應時間"
+  uptime: "上線率"
+  up: "🟩 上線中"
+  degraded: "🟨 可用性下降"
+  down: "🟥 已下線"
+  #responseTimeGraphAlt: "回應時間圖表"
+  ms: "毫秒"
+  #responseTimeDay: "過去24小時平均回應時間"
+  #responseTimeWeek: "過去7天平均回應時間"
+  #responseTimeMonth: "過去30天平均回應時間"
+  #responseTimeYear: "過去365天平均回應時間"
+  activeIncidents: "發生事件"
+  allSystemsOperational: "所有系統正常"
+  incidentReport: "共計 #$NUMBER 事件發生中 →"
+  #activeIncidentSummary: "於 $DATE 在 $POSTS posts"
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: 已修復
+  incidentOngoing: 發生中
+  incidentOpenedAt: 發生於
+  incidentClosedAt: 結束於
+  incidentSubscribe: 前往issues頁面
+  incidentViewOnGitHub: 前往GitHub
+  incidentCommentSummary: 於 $DATE 由 $AUTHOR 回應
+  incidentBack: ← 返回至事件列表
+  pastIncidents: "過去事件"
+  pastIncidentsResolved: 於 $MINUTES 分鐘內包含 $POSTS 則回應
+  #liveStatus: Live Status
+  #overallUptime: "平均回應時間 $UPTIME"
+  #overallUptimeTitle: Overall uptime
+  averageResponseTime: "平均回應時間: $TIMEms"
+  averageResponseTimeTitle: 平均回應時間
+  #sevelDayResponseTime: 過去7天平均回應時間
+  responseTimeMs: "回應時間 (ms)"
+  loading: "載入中..."
+  navGitHub: GitHub
+  footer: Powered by [Upptime](https://upptime.js.org), edited by [CYTsai](https://github.com/cytsai1008)
+  #rateLimitExceededTitle: Rate limit exceeded
+  #rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  #rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  #rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  #rateLimitExceededErrorHowCanFix: How can I fix it?
+  #rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  #rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  #rateLimitExceededHasSet: You have a personal access token set.
+  #rateLimitExceededRemoveToken: Remove token
+  #rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  #rateLimitExceededCopyPastePAT: Copy and paste your token
+  #rateLimitExceededSaveToken: Save token
+  #errorTitle: An error occurred
+  #errorIntro: An error occurred in trying to get the latest status details.
+  #errorText: You can try again in a few moments.
+  #errorHome: Go to the homepage
+  pastScheduledMaintenance: "過去已排定維護"
+  scheduledMaintenance: "已排定維護"
+  scheduledMaintenanceSummaryStarted: 於 $DATE 將為期 $DURATION 分鐘
+  scheduledMaintenanceSummaryStarts: 於 $DATE 執行 $DURATION 分鐘
+  startedAt: 已開始於
+  startsAt: 將於
+  duration: 持續
+  durationMin: $DURATION 分鐘
+  incidentCompleted: 已完成
+  incidentScheduled: 已排定
