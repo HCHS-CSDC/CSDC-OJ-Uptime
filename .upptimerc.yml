@@ -46,10 +46,10 @@ i18n:
   down: "🟥 已下線"
   #responseTimeGraphAlt: "回應時間圖表"
   ms: " 毫秒"
-  #responseTimeDay: "過去24小時平均回應時間"
-  #responseTimeWeek: "過去7天平均回應時間"
-  #responseTimeMonth: "過去30天平均回應時間"
-  #responseTimeYear: "過去365天平均回應時間"
+  responseTimeDay: "過去24小時回應時間"
+  responseTimeWeek: "過去7天回應時間"
+  responseTimeMonth: "過去30天回應時間"
+  responseTimeYear: "過去365天回應時間"
   activeIncidents: "發生事件"
   allSystemsOperational: "🟩 所有系統上線中"
   incidentReport: "查看 #$NUMBER 事件 →"
@@ -71,7 +71,7 @@ i18n:
   overallUptimeTitle: 整體上線率
   averageResponseTime: "平均回應時間: $TIMEms"
   averageResponseTimeTitle: 平均回應時間
-  #sevelDayResponseTime: 過去7天平均回應時間
+  sevelDayResponseTime: 過去7天回應時間
   responseTimeMs: "回應時間 (ms)"
   loading: "載入中..."
   navGitHub: GitHub
