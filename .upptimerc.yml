@@ -7,6 +7,8 @@ sites:
     url: https://csdc.tw
   - name: CSDC Blog
     url: https://csdc-hchs.blogspot.com/
+  - name: HCHS Website
+    url: https://www.hchs.hc.edu.tw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
