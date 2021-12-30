@@ -10,6 +10,8 @@ sites:
   - name: HCHS Website
     url: https://www.hchs.hc.edu.tw
     __dangerous__insecure: true
+  - name: HCHS PC731
+    url: http://research.hchs.hc.edu.tw/~pc731/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,12 +23,12 @@ status-website:
   introTitle: "以下是目前竹中軟研OJ與相關網頁線上狀態"
   introMessage: 本服務使用[upptime/upptime](https://github.com/upptime/upptime)創建
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub Repository
-      href: https://github.com/HCHS-CSDC/CSDC-OJ-Uptime
     - title: CSDC OJ
       href: https://csdc.tw
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/HCHS-CSDC
     - title: Facebook
       href: https://www.facebook.com/hchscsdc/
     - title: Blog
