@@ -45,7 +45,7 @@ i18n:
   degraded: "🟨 可用性下降"
   down: "🟥 已下線"
   #responseTimeGraphAlt: "回應時間圖表"
-  ms: "毫秒"
+  ms: " 毫秒"
   #responseTimeDay: "過去24小時平均回應時間"
   #responseTimeWeek: "過去7天平均回應時間"
   #responseTimeMonth: "過去30天平均回應時間"
