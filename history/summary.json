@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/csdc-hchs.blogspot.com",
     "slug": "csdc-blog",
     "status": "up",
-    "uptime": "77.16%",
-    "uptimeDay": "77.16%",
-    "uptimeWeek": "77.16%",
-    "uptimeMonth": "77.16%",
-    "uptimeYear": "77.16%",
+    "uptime": "77.17%",
+    "uptimeDay": "77.17%",
+    "uptimeWeek": "77.17%",
+    "uptimeMonth": "77.17%",
+    "uptimeYear": "77.17%",
     "time": 413,
     "timeDay": 413,
     "timeWeek": 413,
@@ -45,18 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/www.hchs.hc.edu.tw",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "2.13%",
-    "uptimeDay": "2.13%",
-    "uptimeWeek": "2.13%",
-    "uptimeMonth": "2.13%",
-    "uptimeYear": "2.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2201,
     "timeDay": 2201,
     "timeWeek": 2201,
     "timeMonth": 2201,
     "timeYear": 2201,
-    "dailyMinutesDown": {
-      "2021-12-30": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
