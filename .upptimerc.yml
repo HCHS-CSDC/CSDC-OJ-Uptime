@@ -52,7 +52,7 @@ i18n:
   #responseTimeYear: "過去365天平均回應時間"
   activeIncidents: "發生事件"
   allSystemsOperational: "🟩 所有系統上線中"
-  incidentReport: "共計 #$NUMBER 事件發生中 →"
+  incidentReport: "查看 #$NUMBER 事件 →"
   #activeIncidentSummary: "於 $DATE 在 $POSTS posts"
   incidentTitle: 事件 $NUMBER 詳情
   incidentDetails: 事件詳情
@@ -68,7 +68,7 @@ i18n:
   pastIncidentsResolved: 於 $MINUTES 分鐘內包含 $POSTS 則回應
   #liveStatus: Live Status
   overallUptime: "整體上線率: $UPTIME"
-  #overallUptimeTitle: Overall uptime
+  overallUptimeTitle: 整體上線率
   averageResponseTime: "平均回應時間: $TIMEms"
   averageResponseTimeTitle: 平均回應時間
   #sevelDayResponseTime: 過去7天平均回應時間
