@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 623,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "CSDC Blog",
+    "url": "https://blog.csdc.tw",
+    "icon": "https://favicons.githubusercontent.com/blog.csdc.tw",
+    "slug": "csdc-blog",
+    "status": "down",
+    "uptime": "10.93%",
+    "uptimeDay": "10.93%",
+    "uptimeWeek": "10.93%",
+    "uptimeMonth": "10.93%",
+    "uptimeYear": "10.93%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-30": 0
+    }
   }
 ]
