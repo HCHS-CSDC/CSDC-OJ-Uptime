@@ -5,6 +5,8 @@ repo: CSDC-OJ-Uptime # The name of this repository
 sites:
   - name: CSDC OJ
     url: https://csdc.tw
+  - name: CSDC Blog
+    url: https://blog.csdc.tw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,6 +26,8 @@ status-website:
       href: https://csdc.tw
     - title: Facebook
       href: https://www.facebook.com/hchscsdc/
+    - title: Blog
+      href: https://blog.csdc.tw
   favicon: https://avatars.githubusercontent.com/u/96825441
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
