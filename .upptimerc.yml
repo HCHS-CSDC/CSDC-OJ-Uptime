@@ -51,11 +51,11 @@ i18n:
   #responseTimeMonth: "過去30天平均回應時間"
   #responseTimeYear: "過去365天平均回應時間"
   activeIncidents: "發生事件"
-  allSystemsOperational: "所有系統正常"
+  allSystemsOperational: "🟩 所有系統上線中"
   incidentReport: "共計 #$NUMBER 事件發生中 →"
   #activeIncidentSummary: "於 $DATE 在 $POSTS posts"
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
+  incidentTitle: 事件 $NUMBER 詳情
+  incidentDetails: 事件詳情
   incidentFixed: 已修復
   incidentOngoing: 發生中
   incidentOpenedAt: 發生於
