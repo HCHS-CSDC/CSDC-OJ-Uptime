@@ -16,9 +16,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /CSDC-OJ-Uptime
   logoUrl: https://avatars.githubusercontent.com/u/96825441
-  name: 竹中軟研OJ狀態
+  name: 竹中軟研OJ與相關網頁狀態
   theme: night
-  introTitle: "以下是目前竹中軟研OJ線上狀態"
+  introTitle: "以下是目前竹中軟研OJ與相關網頁線上狀態"
   introMessage: 本服務使用[upptime/upptime](https://github.com/upptime/upptime)創建
   navbar:
     - title: Status
