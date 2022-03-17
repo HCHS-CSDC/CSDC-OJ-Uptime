@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.54%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.73%",
     "time": 730,
     "timeDay": 718,
-    "timeWeek": 588,
-    "timeMonth": 592,
+    "timeWeek": 594,
+    "timeMonth": 586,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2022-03-10": 29,
@@ -68,9 +68,9 @@
     "url": "http://research.hchs.hc.edu.tw/~pc731/",
     "icon": "https://favicons.githubusercontent.com/research.hchs.hc.edu.tw",
     "slug": "hchs-pc-731",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -80,6 +80,7 @@
     "timeMonth": 1016,
     "timeYear": 935,
     "dailyMinutesDown": {
+      "2022-03-17": 0,
       "2022-01-14": 16
     }
   }
