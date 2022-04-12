@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/csdc.tw",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.45%",
+    "uptime": "90.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "68.17%",
-    "uptimeYear": "90.45%",
+    "uptimeYear": "90.48%",
     "time": 711,
     "timeDay": 528,
     "timeWeek": 619,
@@ -61,9 +61,9 @@
     "url": "https://www.hchs.hc.edu.tw",
     "icon": "https://favicons.githubusercontent.com/www.hchs.hc.edu.tw",
     "slug": "hchs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 1891,
     "timeMonth": 1771,
     "timeYear": 1700,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-12": 0
+    }
   },
   {
     "name": "HCHS PC731",
