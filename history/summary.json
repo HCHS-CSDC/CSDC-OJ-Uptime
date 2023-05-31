@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "91.41%",
+    "uptime": "91.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.44%",
     "time": 670,
-    "timeDay": 456,
-    "timeWeek": 560,
-    "timeMonth": 587,
+    "timeDay": 616,
+    "timeWeek": 549,
+    "timeMonth": 588,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2023-03-28": 224,
@@ -79,10 +79,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 711,
-    "timeWeek": 647,
-    "timeMonth": 584,
+    "time": 538,
+    "timeDay": 693,
+    "timeWeek": 670,
+    "timeMonth": 587,
     "timeYear": 569,
     "dailyMinutesDown": {}
   },
@@ -92,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hchs.hc.edu.tw.ico",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.05%",
     "time": 1799,
-    "timeDay": 1087,
-    "timeWeek": 1365,
-    "timeMonth": 1594,
+    "timeDay": 1633,
+    "timeWeek": 1371,
+    "timeMonth": 1596,
     "timeYear": 1820,
     "dailyMinutesDown": {
       "2023-05-06": 17,
@@ -130,8 +130,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 919,
       "2022-07-21": 73,
-      "2022-06-01": 101,
-      "2022-05-31": 52
+      "2022-06-01": 101
     }
   },
   {
@@ -145,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.20%",
-    "time": 1309,
-    "timeDay": 1127,
-    "timeWeek": 1363,
-    "timeMonth": 1391,
-    "timeYear": 1403,
+    "time": 1308,
+    "timeDay": 1165,
+    "timeWeek": 1309,
+    "timeMonth": 1384,
+    "timeYear": 1402,
     "dailyMinutesDown": {
       "2023-03-23": 19,
       "2023-03-22": 16,
@@ -183,8 +182,7 @@
       "2022-08-06": 919,
       "2022-07-21": 49,
       "2022-07-02": 68,
-      "2022-06-01": 88,
-      "2022-05-31": 51
+      "2022-06-01": 88
     }
   }
 ]
