@@ -116,8 +116,7 @@
       "2022-11-17": 18,
       "2022-09-11": 259,
       "2022-09-10": 1440,
-      "2022-09-09": 1440,
-      "2022-09-08": 796
+      "2022-09-09": 1440
     }
   },
   {
@@ -125,19 +124,20 @@
     "url": "http://research.hchs.hc.edu.tw/~pc731/",
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
-    "status": "down",
-    "uptime": "97.73%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "96.72%",
-    "time": 1359,
-    "timeDay": 1659,
-    "timeWeek": 1241,
-    "timeMonth": 1265,
-    "timeYear": 1336,
+    "status": "up",
+    "uptime": "97.72%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "96.71%",
+    "time": 1362,
+    "timeDay": 1640,
+    "timeWeek": 1271,
+    "timeMonth": 1273,
+    "timeYear": 1337,
     "dailyMinutesDown": {
-      "2023-09-07": 65,
+      "2023-09-08": 36,
+      "2023-09-07": 73,
       "2023-09-06": 4,
       "2023-08-18": 22,
       "2023-08-15": 17,
@@ -168,8 +168,7 @@
       "2022-09-26": 940,
       "2022-09-11": 259,
       "2022-09-10": 1440,
-      "2022-09-09": 1440,
-      "2022-09-08": 796
+      "2022-09-09": 1440
     }
   }
 ]
