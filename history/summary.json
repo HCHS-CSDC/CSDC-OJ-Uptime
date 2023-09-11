@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.73%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "91.42%",
-    "time": 645,
-    "timeDay": 1434,
-    "timeWeek": 686,
-    "timeMonth": 695,
-    "timeYear": 659,
+    "time": 673,
+    "timeDay": 16078,
+    "timeWeek": 2885,
+    "timeMonth": 1122,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2023-08-18": 23,
       "2023-08-11": 918,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 790,
-    "timeWeek": 556,
-    "timeMonth": 572,
-    "timeYear": 579,
+    "time": 568,
+    "timeDay": 908,
+    "timeWeek": 635,
+    "timeMonth": 576,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   },
   {
@@ -94,12 +94,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.77%",
     "time": 1756,
-    "timeDay": 1291,
-    "timeWeek": 1574,
-    "timeMonth": 1525,
-    "timeYear": 1688,
+    "timeDay": 1141,
+    "timeWeek": 1424,
+    "timeMonth": 1515,
+    "timeYear": 1687,
     "dailyMinutesDown": {
       "2023-08-15": 18,
       "2023-07-25": 22,
@@ -113,8 +113,7 @@
       "2023-01-19": 54,
       "2023-01-04": 22,
       "2022-12-07": 15,
-      "2022-11-17": 18,
-      "2022-09-11": 259
+      "2022-11-17": 18
     }
   },
   {
@@ -127,12 +126,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "97.15%",
-    "time": 1362,
-    "timeDay": 1068,
-    "timeWeek": 1315,
-    "timeMonth": 1269,
-    "timeYear": 1336,
+    "uptimeYear": "97.42%",
+    "time": 1361,
+    "timeDay": 990,
+    "timeWeek": 1277,
+    "timeMonth": 1281,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2023-09-08": 36,
       "2023-09-07": 73,
@@ -163,8 +162,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
-      "2022-09-26": 940,
-      "2022-09-11": 259
+      "2022-09-26": 940
     }
   }
 ]
