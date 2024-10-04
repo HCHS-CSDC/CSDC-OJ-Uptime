@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "91.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.02%",
+    "uptimeWeek": "59.76%",
     "uptimeMonth": "88.00%",
     "uptimeYear": "89.32%",
     "time": 644,
@@ -76,8 +76,7 @@
       "2023-10-27": 28,
       "2023-10-23": 156,
       "2023-10-20": 75,
-      "2023-10-08": 20,
-      "2023-10-05": 36
+      "2023-10-08": 20
     }
   },
   {
@@ -85,19 +84,20 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 527,
-    "timeDay": 484,
-    "timeWeek": 403,
-    "timeMonth": 447,
-    "timeYear": 511,
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.99%",
+    "time": 528,
+    "timeDay": 550,
+    "timeWeek": 429,
+    "timeMonth": 452,
+    "timeYear": 512,
     "dailyMinutesDown": {
-      "2024-10-03": 0
+      "2024-10-04": 69,
+      "2024-10-03": 5
     }
   },
   {
@@ -214,8 +214,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1395,
       "2023-11-09": 24,
-      "2023-10-08": 20,
-      "2023-10-05": 36
+      "2023-10-08": 20
     }
   }
 ]
