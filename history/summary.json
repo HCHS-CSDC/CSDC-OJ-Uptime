@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.57%",
+    "uptime": "90.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.49%",
+    "uptimeMonth": "82.01%",
     "uptimeYear": "86.02%",
-    "time": 644,
-    "timeDay": 489,
-    "timeWeek": 533,
+    "time": 643,
+    "timeDay": 520,
+    "timeWeek": 515,
     "timeMonth": 527,
     "timeYear": 564,
     "dailyMinutesDown": {
@@ -88,8 +88,7 @@
       "2023-12-04": 1111,
       "2023-12-01": 65,
       "2023-11-20": 41,
-      "2023-11-19": 1440,
-      "2023-11-18": 1395
+      "2023-11-19": 1440
     }
   },
   {
@@ -103,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 516,
-    "timeDay": 787,
-    "timeWeek": 353,
-    "timeMonth": 462,
-    "timeYear": 496,
+    "time": 515,
+    "timeDay": 90,
+    "timeWeek": 352,
+    "timeMonth": 444,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2024-10-04": 69,
       "2024-10-03": 5
@@ -119,16 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hchs.hc.edu.tw.ico",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "95.92%",
+    "uptime": "95.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.22%",
-    "time": 1571,
-    "timeDay": 1372,
-    "timeWeek": 1569,
-    "timeMonth": 1557,
-    "timeYear": 1602,
+    "time": 1572,
+    "timeDay": 1584,
+    "timeWeek": 1565,
+    "timeMonth": 1574,
+    "timeYear": 1601,
     "dailyMinutesDown": {
       "2024-09-30": 18,
       "2024-08-20": 58,
@@ -183,9 +182,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "93.61%",
     "time": 1368,
-    "timeDay": 444,
-    "timeWeek": 1256,
-    "timeMonth": 1212,
+    "timeDay": 1633,
+    "timeWeek": 1269,
+    "timeMonth": 1231,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2024-10-22": 26,
@@ -226,8 +225,7 @@
       "2023-12-12": 85,
       "2023-12-11": 1333,
       "2023-11-20": 41,
-      "2023-11-19": 1440,
-      "2023-11-18": 1395
+      "2023-11-19": 1440
     }
   }
 ]
