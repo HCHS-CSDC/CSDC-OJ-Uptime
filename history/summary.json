@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.44%",
+    "uptime": "90.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "84.71%",
-    "time": 561,
-    "timeDay": 545,
-    "timeWeek": 575,
-    "timeMonth": 534,
+    "time": 562,
+    "timeDay": 558,
+    "timeWeek": 566,
+    "timeMonth": 533,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2025-02-12": 21,
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 498,
-    "timeDay": 488,
-    "timeWeek": 417,
-    "timeMonth": 397,
+    "timeDay": 743,
+    "timeWeek": 473,
+    "timeMonth": 417,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2024-10-04": 69,
@@ -133,10 +133,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.14%",
-    "time": 1590,
-    "timeDay": 1513,
-    "timeWeek": 1643,
-    "timeMonth": 1581,
+    "time": 1589,
+    "timeDay": 1605,
+    "timeWeek": 1645,
+    "timeMonth": 1580,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2025-01-13": 77,
@@ -177,8 +177,7 @@
       "2024-04-15": 72,
       "2024-04-06": 39,
       "2024-03-31": 18,
-      "2024-03-30": 346,
-      "2024-02-19": 30
+      "2024-03-30": 346
     }
   },
   {
@@ -187,16 +186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "96.63%",
+    "uptime": "96.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "94.13%",
-    "time": 1380,
-    "timeDay": 1492,
-    "timeWeek": 1500,
-    "timeMonth": 1419,
-    "timeYear": 1398,
+    "time": 1379,
+    "timeDay": 1184,
+    "timeWeek": 1475,
+    "timeMonth": 1408,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2025-02-12": 24,
       "2025-01-13": 76,
@@ -235,8 +234,7 @@
       "2024-04-06": 38,
       "2024-03-31": 18,
       "2024-03-30": 345,
-      "2024-03-02": 15,
-      "2024-02-19": 29
+      "2024-03-02": 15
     }
   }
 ]
