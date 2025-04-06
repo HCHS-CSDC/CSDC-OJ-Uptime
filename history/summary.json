@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.81%",
+    "uptime": "90.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "84.69%",
-    "time": 554,
-    "timeDay": 592,
-    "timeWeek": 559,
-    "timeMonth": 560,
+    "time": 553,
+    "timeDay": 491,
+    "timeWeek": 561,
+    "timeMonth": 554,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2025-03-05": 23,
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 486,
-    "timeDay": 440,
-    "timeWeek": 472,
-    "timeMonth": 511,
-    "timeYear": 481,
+    "time": 488,
+    "timeDay": 806,
+    "timeWeek": 493,
+    "timeMonth": 517,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2024-10-04": 69,
       "2024-10-03": 5
@@ -131,16 +131,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hchs.hc.edu.tw.ico",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.20%",
     "time": 1597,
-    "timeDay": 2261,
-    "timeWeek": 1679,
-    "timeMonth": 1615,
-    "timeYear": 1593,
+    "timeDay": 1561,
+    "timeWeek": 1715,
+    "timeMonth": 1618,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2025-03-04": 20,
       "2025-03-03": 22,
@@ -179,8 +179,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 803,
-      "2024-04-15": 72,
-      "2024-04-06": 39
+      "2024-04-15": 72
     }
   },
   {
@@ -189,16 +188,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "94.19%",
-    "time": 1379,
-    "timeDay": 1330,
-    "timeWeek": 1443,
-    "timeMonth": 1378,
-    "timeYear": 1380,
+    "time": 1378,
+    "timeDay": 1136,
+    "timeWeek": 1421,
+    "timeMonth": 1374,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2025-03-07": 20,
       "2025-03-03": 22,
@@ -236,8 +235,7 @@
       "2024-07-02": 47,
       "2024-06-27": 24,
       "2024-05-26": 54,
-      "2024-04-15": 46,
-      "2024-04-06": 38
+      "2024-04-15": 46
     }
   }
 ]
