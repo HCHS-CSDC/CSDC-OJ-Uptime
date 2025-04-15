@@ -6,7 +6,7 @@
     "slug": "csdc-oj",
     "status": "up",
     "uptime": "90.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "84.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 1600,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2025-04-15": 0,
       "2025-04-13": 50,
       "2025-04-11": 24,
       "2025-03-05": 23,
