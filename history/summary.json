@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.87%",
-    "uptimeDay": "96.56%",
+    "uptime": "90.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "84.68%",
-    "time": 633,
-    "timeDay": 529,
-    "timeWeek": 3502,
-    "timeMonth": 1603,
-    "timeYear": 658,
+    "time": 632,
+    "timeDay": 457,
+    "timeWeek": 3487,
+    "timeMonth": 1600,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2025-04-13": 50,
       "2025-04-11": 24,
@@ -116,10 +116,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 486,
-    "timeDay": 119,
-    "timeWeek": 331,
-    "timeMonth": 460,
+    "time": 487,
+    "timeDay": 655,
+    "timeWeek": 369,
+    "timeMonth": 470,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2024-10-04": 69,
@@ -136,12 +136,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.21%",
-    "time": 1603,
-    "timeDay": 1907,
-    "timeWeek": 1506,
-    "timeMonth": 1601,
-    "timeYear": 1592,
+    "uptimeYear": "92.22%",
+    "time": 1602,
+    "timeDay": 1426,
+    "timeWeek": 1493,
+    "timeMonth": 1565,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2025-03-04": 20,
       "2025-03-03": 22,
@@ -179,8 +179,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 803,
-      "2024-04-15": 72
+      "2024-05-14": 803
     }
   },
   {
@@ -193,11 +192,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.20%",
+    "uptimeYear": "94.21%",
     "time": 1384,
-    "timeDay": 1736,
-    "timeWeek": 1597,
-    "timeMonth": 1442,
+    "timeDay": 1252,
+    "timeWeek": 1553,
+    "timeMonth": 1426,
     "timeYear": 1367,
     "dailyMinutesDown": {
       "2025-03-07": 20,
@@ -235,8 +234,7 @@
       "2024-08-11": 111,
       "2024-07-02": 47,
       "2024-06-27": 24,
-      "2024-05-26": 54,
-      "2024-04-15": 46
+      "2024-05-26": 54
     }
   }
 ]
