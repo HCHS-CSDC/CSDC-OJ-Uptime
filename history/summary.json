@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.80%",
+    "uptime": "90.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.63%",
     "time": 1306,
-    "timeDay": 541,
-    "timeWeek": 552,
-    "timeMonth": 1128,
-    "timeYear": 1640,
+    "timeDay": 550,
+    "timeWeek": 558,
+    "timeMonth": 1127,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2025-05-06": 43,
       "2025-05-04": 26,
@@ -113,8 +113,7 @@
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
-      "2024-07-22": 1153,
-      "2024-06-27": 25
+      "2024-07-22": 1153
     }
   },
   {
@@ -128,10 +127,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 491,
-    "timeDay": 580,
-    "timeWeek": 557,
-    "timeMonth": 540,
+    "time": 490,
+    "timeDay": 225,
+    "timeWeek": 486,
+    "timeMonth": 534,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2024-10-04": 69,
@@ -144,16 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hchs.hc.edu.tw.ico",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "96.60%",
+    "uptime": "96.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1608,
-    "timeDay": 2102,
-    "timeWeek": 1889,
-    "timeMonth": 1664,
-    "timeYear": 1595,
+    "timeDay": 1710,
+    "timeWeek": 1854,
+    "timeMonth": 1658,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2025-04-29": 22,
       "2025-03-04": 20,
@@ -176,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.17%",
-    "time": 1400,
-    "timeDay": 1362,
-    "timeWeek": 1426,
-    "timeMonth": 1377,
-    "timeYear": 1379,
+    "time": 1399,
+    "timeDay": 1220,
+    "timeWeek": 1470,
+    "timeMonth": 1359,
+    "timeYear": 1378,
     "dailyMinutesDown": {
       "2025-04-27": 18,
       "2025-04-16": 80,
@@ -218,8 +217,7 @@
       "2024-08-13": 1440,
       "2024-08-12": 1120,
       "2024-08-11": 111,
-      "2024-07-02": 47,
-      "2024-06-27": 24
+      "2024-07-02": 47
     }
   }
 ]
