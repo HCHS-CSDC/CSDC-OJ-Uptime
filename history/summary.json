@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "90.84%",
+    "uptime": "90.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.63%",
     "time": 1305,
-    "timeDay": 490,
-    "timeWeek": 534,
-    "timeMonth": 1144,
+    "timeDay": 420,
+    "timeWeek": 511,
+    "timeMonth": 1141,
     "timeYear": 1646,
     "dailyMinutesDown": {
       "2025-05-06": 43,
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 489,
-    "timeDay": 453,
-    "timeWeek": 472,
+    "time": 490,
+    "timeDay": 727,
+    "timeWeek": 520,
     "timeMonth": 531,
-    "timeYear": 479,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2024-10-04": 69,
       "2024-10-03": 5
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1609,
-    "timeDay": 1786,
-    "timeWeek": 1749,
-    "timeMonth": 1662,
-    "timeYear": 1596,
+    "time": 1608,
+    "timeDay": 1383,
+    "timeWeek": 1649,
+    "timeMonth": 1659,
+    "timeYear": 1595,
     "dailyMinutesDown": {
       "2025-04-29": 22,
       "2025-03-04": 20,
@@ -160,8 +160,7 @@
       "2025-01-13": 77,
       "2024-12-28": 387,
       "2024-09-30": 18,
-      "2024-08-20": 58,
-      "2024-07-02": 47
+      "2024-08-20": 58
     }
   },
   {
@@ -176,10 +175,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.18%",
     "time": 1399,
-    "timeDay": 1386,
-    "timeWeek": 1328,
-    "timeMonth": 1367,
-    "timeYear": 1378,
+    "timeDay": 1391,
+    "timeWeek": 1303,
+    "timeMonth": 1369,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-04-27": 18,
       "2025-04-16": 80,
@@ -216,8 +215,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1120,
-      "2024-08-11": 111,
-      "2024-07-02": 47
+      "2024-08-11": 111
     }
   }
 ]
