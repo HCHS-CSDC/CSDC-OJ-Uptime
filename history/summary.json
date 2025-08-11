@@ -8,13 +8,13 @@
     "uptime": "91.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "87.77%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "88.04%",
     "time": 1376,
-    "timeDay": 506,
-    "timeWeek": 559,
-    "timeMonth": 1715,
-    "timeYear": 1683,
+    "timeDay": 501,
+    "timeWeek": 553,
+    "timeMonth": 560,
+    "timeYear": 1681,
     "dailyMinutesDown": {
       "2025-07-20": 83,
       "2025-07-19": 33,
@@ -95,8 +95,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 469,
-      "2024-08-12": 389,
-      "2024-08-11": 1440
+      "2024-08-12": 389
     }
   },
   {
@@ -111,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 482,
-    "timeDay": 472,
-    "timeWeek": 360,
-    "timeMonth": 426,
+    "timeDay": 452,
+    "timeWeek": 391,
+    "timeMonth": 421,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-04": 69,
@@ -132,9 +131,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 1605,
-    "timeDay": 1120,
-    "timeWeek": 1580,
-    "timeMonth": 1668,
+    "timeDay": 1418,
+    "timeWeek": 1552,
+    "timeMonth": 1669,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2025-07-16": 43,
@@ -153,14 +152,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "94.16%",
-    "time": 1390,
-    "timeDay": 742,
-    "timeWeek": 1324,
+    "time": 1391,
+    "timeDay": 1391,
+    "timeWeek": 1312,
     "timeMonth": 1389,
     "timeYear": 1384,
     "dailyMinutesDown": {
@@ -201,8 +200,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1120,
-      "2024-08-11": 111
+      "2024-08-12": 1120
     }
   }
 ]
