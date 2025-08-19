@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "91.16%",
+    "uptime": "91.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "89.57%",
-    "time": 1374,
-    "timeDay": 430,
-    "timeWeek": 572,
-    "timeMonth": 570,
-    "timeYear": 1668,
+    "uptimeYear": "89.84%",
+    "time": 1375,
+    "timeDay": 995,
+    "timeWeek": 633,
+    "timeMonth": 583,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2025-07-20": 83,
       "2025-07-19": 33,
@@ -87,8 +87,7 @@
       "2024-09-16": 34,
       "2024-08-22": 137,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -103,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 482,
-    "timeDay": 576,
-    "timeWeek": 505,
-    "timeMonth": 433,
+    "timeDay": 531,
+    "timeWeek": 561,
+    "timeMonth": 444,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-04": 69,
@@ -123,10 +122,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1602,
-    "timeDay": 1216,
-    "timeWeek": 1402,
-    "timeMonth": 1512,
+    "time": 1601,
+    "timeDay": 1315,
+    "timeWeek": 1333,
+    "timeMonth": 1504,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2025-07-16": 43,
@@ -149,12 +148,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "95.78%",
-    "time": 1389,
-    "timeDay": 974,
-    "timeWeek": 1177,
-    "timeMonth": 1358,
-    "timeYear": 1381,
+    "uptimeYear": "96.05%",
+    "time": 1388,
+    "timeDay": 1017,
+    "timeWeek": 1106,
+    "timeMonth": 1328,
+    "timeYear": 1380,
     "dailyMinutesDown": {
       "2025-08-13": 33,
       "2025-07-20": 82,
@@ -186,8 +185,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   }
 ]
