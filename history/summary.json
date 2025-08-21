@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "91.17%",
+    "uptime": "91.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "90.12%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "90.39%",
     "time": 1375,
-    "timeDay": 590,
-    "timeWeek": 606,
-    "timeMonth": 594,
-    "timeYear": 1664,
+    "timeDay": 528,
+    "timeWeek": 608,
+    "timeMonth": 567,
+    "timeYear": 1661,
     "dailyMinutesDown": {
       "2025-07-20": 83,
       "2025-07-19": 33,
@@ -85,8 +85,7 @@
       "2024-09-25": 53,
       "2024-09-20": 49,
       "2024-09-16": 34,
-      "2024-08-22": 137,
-      "2024-08-21": 1440
+      "2024-08-22": 137
     }
   },
   {
@@ -101,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 481,
-    "timeDay": 569,
-    "timeWeek": 561,
-    "timeMonth": 451,
-    "timeYear": 480,
+    "timeDay": 230,
+    "timeWeek": 531,
+    "timeMonth": 447,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2024-10-04": 69,
       "2024-10-03": 5
@@ -116,15 +115,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hchs.hc.edu.tw.ico",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "96.74%",
+    "uptime": "96.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 1601,
-    "timeDay": 1596,
-    "timeWeek": 1377,
-    "timeMonth": 1496,
+    "timeDay": 1678,
+    "timeWeek": 1413,
+    "timeMonth": 1503,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2025-07-16": 43,
@@ -142,15 +141,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "96.33%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "96.60%",
     "time": 1388,
-    "timeDay": 1396,
-    "timeWeek": 1153,
-    "timeMonth": 1321,
+    "timeDay": 1430,
+    "timeWeek": 1216,
+    "timeMonth": 1305,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2025-08-13": 33,
@@ -181,8 +180,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   }
 ]
