@@ -94,7 +94,7 @@
     "slug": "csdc-blog",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "55.58%",
+    "uptimeDay": "55.57%",
     "uptimeWeek": "86.45%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "99.73%",
@@ -104,6 +104,7 @@
     "timeMonth": 457,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-08-29": 640,
       "2025-08-28": 583,
       "2025-08-27": 144,
