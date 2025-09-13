@@ -94,13 +94,13 @@
     "slug": "csdc-blog",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "75.43%",
-    "uptimeWeek": "54.01%",
-    "uptimeMonth": "86.54%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "75.42%",
+    "uptimeWeek": "54.56%",
+    "uptimeMonth": "86.65%",
+    "uptimeYear": "98.89%",
     "time": 481,
-    "timeDay": 446,
-    "timeWeek": 469,
+    "timeDay": 449,
+    "timeWeek": 468,
     "timeMonth": 485,
     "timeYear": 481,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
       "2025-09-07": 792,
       "2025-09-06": 542,
       "2025-09-05": 691,
-      "2025-09-04": 411
+      "2025-09-04": 364
     }
   },
   {
