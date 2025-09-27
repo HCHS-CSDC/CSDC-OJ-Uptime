@@ -9,12 +9,12 @@
     "uptimeDay": "89.00%",
     "uptimeWeek": "98.43%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "90.69%",
+    "uptimeYear": "90.87%",
     "time": 1444,
-    "timeDay": 6892,
-    "timeWeek": 2614,
-    "timeMonth": 1152,
-    "timeYear": 1757,
+    "timeDay": 6914,
+    "timeWeek": 2626,
+    "timeMonth": 1147,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2025-09-26": 158,
       "2025-07-20": 83,
@@ -80,8 +80,7 @@
       "2024-10-08": 28,
       "2024-09-30": 216,
       "2024-09-29": 1440,
-      "2024-09-28": 1440,
-      "2024-09-27": 1029
+      "2024-09-28": 1440
     }
   },
   {
@@ -95,9 +94,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.77%",
     "uptimeYear": "99.06%",
-    "time": 479,
-    "timeDay": 427,
-    "timeWeek": 482,
+    "time": 480,
+    "timeDay": 450,
+    "timeWeek": 480,
     "timeMonth": 479,
     "timeYear": 477,
     "dailyMinutesDown": {
@@ -126,9 +125,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 1596,
-    "timeDay": 1524,
-    "timeWeek": 1495,
-    "timeMonth": 1532,
+    "timeDay": 1342,
+    "timeWeek": 1483,
+    "timeMonth": 1524,
     "timeYear": 1609,
     "dailyMinutesDown": {
       "2025-09-19": 24,
@@ -147,18 +146,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "96.24%",
+    "uptime": "96.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.11%",
-    "uptimeYear": "95.17%",
+    "uptimeMonth": "56.94%",
+    "uptimeYear": "94.99%",
     "time": 1384,
-    "timeDay": 1465,
-    "timeWeek": 2266,
-    "timeMonth": 1531,
-    "timeYear": 1385,
+    "timeDay": 1105,
+    "timeWeek": 2248,
+    "timeMonth": 1550,
+    "timeYear": 1386,
     "dailyMinutesDown": {
-      "2025-09-26": 589,
+      "2025-09-27": 102,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -192,8 +192,7 @@
       "2024-10-12": 1303,
       "2024-09-30": 67,
       "2024-09-29": 1440,
-      "2024-09-28": 1440,
-      "2024-09-27": 813
+      "2024-09-28": 1440
     }
   }
 ]
