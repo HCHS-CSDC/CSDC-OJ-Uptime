@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "91.49%",
+    "uptime": "91.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "92.20%",
-    "time": 1646,
-    "timeDay": 588,
-    "timeWeek": 520,
-    "timeMonth": 1664,
-    "timeYear": 1798,
+    "uptimeYear": "92.47%",
+    "time": 1644,
+    "timeDay": 510,
+    "timeWeek": 535,
+    "timeMonth": 1662,
+    "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-10-02": 84,
       "2025-09-26": 158,
@@ -73,8 +73,7 @@
       "2024-10-16": 996,
       "2024-10-15": 60,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   },
   {
@@ -86,12 +85,12 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
-    "uptimeMonth": "93.41%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.08%",
-    "time": 478,
-    "timeDay": 626,
-    "timeWeek": 582,
-    "timeMonth": 458,
+    "time": 479,
+    "timeDay": 1502,
+    "timeWeek": 701,
+    "timeMonth": 463,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-10-09": 42,
@@ -120,10 +119,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.88%",
     "time": 1590,
-    "timeDay": 1772,
-    "timeWeek": 1471,
-    "timeMonth": 1485,
-    "timeYear": 1602,
+    "timeDay": 1734,
+    "timeWeek": 1513,
+    "timeMonth": 1479,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-10-01": 56,
       "2025-09-19": 24,
@@ -147,10 +146,10 @@
     "uptimeMonth": "42.56%",
     "uptimeYear": "94.51%",
     "time": 1380,
-    "timeDay": 1501,
-    "timeWeek": 1212,
-    "timeMonth": 1471,
-    "timeYear": 1378,
+    "timeDay": 1603,
+    "timeWeek": 1311,
+    "timeMonth": 1480,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2025-10-01": 640,
       "2025-09-30": 1440,
@@ -187,8 +186,7 @@
       "2024-12-10": 103,
       "2024-12-09": 1363,
       "2024-10-22": 26,
-      "2024-10-13": 300,
-      "2024-10-12": 1303
+      "2024-10-13": 300
     }
   }
 ]
