@@ -14,7 +14,7 @@
     "timeDay": 489,
     "timeWeek": 466,
     "timeMonth": 1505,
-    "timeYear": 1504,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-04-20": 81,
       "2026-04-13": 119,
@@ -47,18 +47,19 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "98.21%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.19%",
-    "time": 489,
-    "timeDay": 484,
-    "timeWeek": 457,
-    "timeMonth": 437,
+    "time": 488,
+    "timeDay": 487,
+    "timeWeek": 450,
+    "timeMonth": 439,
     "timeYear": 492,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-29": 73,
       "2026-04-23": 108,
       "2026-04-18": 116,
@@ -90,7 +91,7 @@
       "2025-09-13": 477,
       "2025-09-12": 378,
       "2025-09-11": 140,
-      "2025-09-10": 41
+      "2025-09-10": 21
     }
   },
   {
@@ -124,7 +125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
