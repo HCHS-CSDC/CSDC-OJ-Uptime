@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "down",
-    "uptime": "93.32%",
-    "uptimeDay": "38.63%",
-    "uptimeWeek": "91.23%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "98.99%",
+    "uptime": "93.31%",
+    "uptimeDay": "37.34%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "98.97%",
     "time": 1905,
-    "timeDay": 9973,
+    "timeDay": 6827,
     "timeWeek": 4307,
     "timeMonth": 1641,
     "timeYear": 1421,
@@ -39,7 +39,7 @@
       "2026-04-13": 119,
       "2026-04-20": 81,
       "2026-05-26": 884,
-      "2026-05-27": 0
+      "2026-05-27": 140
     }
   },
   {
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
