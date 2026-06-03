@@ -4,17 +4,17 @@
     "url": "https://csdc.tw",
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
-    "status": "up",
-    "uptime": "93.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "status": "down",
+    "uptime": "93.53%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "98.94%",
     "time": 1902,
-    "timeDay": 569,
-    "timeWeek": 480,
-    "timeMonth": 1576,
-    "timeYear": 1418,
+    "timeDay": 378,
+    "timeWeek": 438,
+    "timeMonth": 1537,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2025-07-10": 99,
       "2025-07-19": 33,
@@ -39,7 +39,8 @@
       "2026-04-13": 119,
       "2026-04-20": 81,
       "2026-05-26": 884,
-      "2026-05-27": 266
+      "2026-05-27": 266,
+      "2026-06-03": 0
     }
   },
   {
