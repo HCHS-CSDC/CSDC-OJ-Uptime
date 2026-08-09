@@ -13,7 +13,7 @@
     "time": 1983,
     "timeDay": 1518,
     "timeWeek": 1394,
-    "timeMonth": 1002,
+    "timeMonth": 1017,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2025-09-26": 158,
@@ -51,10 +51,10 @@
     "slug": "csdc-blog",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "22.96%",
-    "uptimeWeek": "44.42%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "14.61%",
+    "uptimeWeek": "43.76%",
+    "uptimeMonth": "82.37%",
+    "uptimeYear": "97.87%",
     "time": 484,
     "timeDay": 409,
     "timeWeek": 414,
@@ -107,7 +107,7 @@
       "2026-08-06": 395,
       "2026-08-07": 570,
       "2026-08-08": 1109,
-      "2026-08-09": 0
+      "2026-08-09": 120
     }
   },
   {
@@ -124,7 +124,7 @@
     "time": 1575,
     "timeDay": 1206,
     "timeWeek": 1267,
-    "timeMonth": 1591,
+    "timeMonth": 1572,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2025-09-19": 24,
@@ -148,7 +148,7 @@
     "time": 1365,
     "timeDay": 1164,
     "timeWeek": 1166,
-    "timeMonth": 1344,
+    "timeMonth": 1329,
     "timeYear": 1346,
     "dailyMinutesDown": {
       "2025-08-13": 33,
