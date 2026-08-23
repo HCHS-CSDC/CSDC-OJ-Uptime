@@ -49,16 +49,16 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "68.38%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "89.18%",
+    "uptimeMonth": "68.33%",
     "uptimeYear": "97.13%",
     "time": 479,
-    "timeDay": 350,
-    "timeWeek": 405,
-    "timeMonth": 423,
+    "timeDay": 341,
+    "timeWeek": 403,
+    "timeMonth": 422,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2026-03-16": 52,
@@ -101,7 +101,7 @@
       "2026-08-20": 33,
       "2026-08-21": 492,
       "2026-08-22": 83,
-      "2026-08-23": 120
+      "2026-08-23": 141
     }
   },
   {
