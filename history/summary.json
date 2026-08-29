@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "93.70%",
+    "uptime": "93.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -49,15 +49,15 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "65.59%",
-    "uptimeYear": "97.02%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "80.07%",
+    "uptimeWeek": "82.95%",
+    "uptimeMonth": "65.18%",
+    "uptimeYear": "96.96%",
     "time": 477,
-    "timeDay": 377,
-    "timeWeek": 405,
+    "timeDay": 428,
+    "timeWeek": 409,
     "timeMonth": 421,
     "timeYear": 478,
     "dailyMinutesDown": {
@@ -97,7 +97,7 @@
       "2026-08-26": 284,
       "2026-08-27": 772,
       "2026-08-28": 35,
-      "2026-08-29": 0
+      "2026-08-29": 287
     }
   },
   {
