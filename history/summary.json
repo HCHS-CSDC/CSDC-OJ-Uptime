@@ -12,9 +12,9 @@
     "uptimeYear": "98.24%",
     "time": 1969,
     "timeDay": 1646,
-    "timeWeek": 1419,
+    "timeWeek": 1390,
     "timeMonth": 1126,
-    "timeYear": 1428,
+    "timeYear": 1430,
     "dailyMinutesDown": {
       "2025-09-26": 158,
       "2025-10-02": 84,
@@ -49,19 +49,18 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "89.72%",
-    "uptimeWeek": "81.20%",
-    "uptimeMonth": "65.61%",
-    "uptimeYear": "96.91%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "81.33%",
+    "uptimeMonth": "65.78%",
+    "uptimeYear": "96.94%",
     "time": 477,
-    "timeDay": 577,
-    "timeWeek": 434,
-    "timeMonth": 422,
+    "timeDay": 439,
+    "timeWeek": 437,
+    "timeMonth": 421,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2026-06-30": 149,
       "2026-07-01": 167,
       "2026-07-24": 68,
       "2026-07-29": 605,
@@ -96,7 +95,8 @@
       "2026-08-27": 772,
       "2026-08-28": 35,
       "2026-08-29": 323,
-      "2026-08-30": 418
+      "2026-08-30": 418,
+      "2026-08-31": 0
     }
   },
   {
@@ -112,7 +112,7 @@
     "uptimeYear": "99.93%",
     "time": 1568,
     "timeDay": 1443,
-    "timeWeek": 1375,
+    "timeWeek": 1412,
     "timeMonth": 1377,
     "timeYear": 1538,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "94.87%",
     "time": 1350,
     "timeDay": 1244,
-    "timeWeek": 1207,
+    "timeWeek": 1187,
     "timeMonth": 1189,
     "timeYear": 1343,
     "dailyMinutesDown": {
