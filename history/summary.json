@@ -14,7 +14,7 @@
     "timeDay": 1069,
     "timeWeek": 1040,
     "timeMonth": 1153,
-    "timeYear": 1393,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-10-24": 15,
       "2025-11-13": 106,
@@ -47,19 +47,19 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "50.35%",
-    "uptimeWeek": "55.08%",
-    "uptimeMonth": "86.30%",
-    "uptimeYear": "96.23%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "54.92%",
+    "uptimeWeek": "60.43%",
+    "uptimeMonth": "86.29%",
+    "uptimeYear": "96.31%",
     "time": 467,
-    "timeDay": 507,
-    "timeWeek": 438,
-    "timeMonth": 410,
-    "timeYear": 470,
+    "timeDay": 476,
+    "timeWeek": 436,
+    "timeMonth": 411,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-08-03": 935,
+      "2026-08-03": 515,
       "2026-08-04": 796,
       "2026-08-05": 1041,
       "2026-08-06": 395,
@@ -103,7 +103,8 @@
       "2026-09-30": 710,
       "2026-10-01": 112,
       "2026-10-02": 747,
-      "2026-10-03": 644
+      "2026-10-03": 644,
+      "2026-10-04": 5
     }
   },
   {
@@ -112,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hchs.hc.edu.tw.ico",
     "slug": "hchs-website",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -134,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "down",
-    "uptime": "96.66%",
-    "uptimeDay": "55.26%",
-    "uptimeWeek": "93.61%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "99.54%",
+    "uptime": "96.63%",
+    "uptimeDay": "2.85%",
+    "uptimeWeek": "86.12%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "99.40%",
     "time": 1372,
     "timeDay": 0,
     "timeWeek": 2429,
@@ -150,7 +151,8 @@
       "2025-12-13": 29,
       "2026-03-28": 92,
       "2026-05-28": 323,
-      "2026-10-03": 644
+      "2026-10-04": 48,
+      "2026-10-03": 1351
     }
   }
 ]
