@@ -47,16 +47,16 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "27.45%",
-    "uptimeWeek": "43.60%",
-    "uptimeMonth": "65.43%",
-    "uptimeYear": "95.25%",
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "27.27%",
+    "uptimeWeek": "39.73%",
+    "uptimeMonth": "64.27%",
+    "uptimeYear": "95.15%",
     "time": 466,
-    "timeDay": 439,
-    "timeWeek": 479,
-    "timeMonth": 442,
+    "timeDay": 436,
+    "timeWeek": 481,
+    "timeMonth": 441,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2026-08-08": 705,
@@ -110,7 +110,7 @@
       "2026-10-12": 808,
       "2026-10-13": 548,
       "2026-10-14": 1122,
-      "2026-10-15": 164
+      "2026-10-15": 672
     }
   },
   {
@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/research.hchs.hc.edu.tw.ico",
     "slug": "hchs-pc-731",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.39%",
