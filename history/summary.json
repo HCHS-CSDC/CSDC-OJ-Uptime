@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc.tw.ico",
     "slug": "csdc-oj",
     "status": "up",
-    "uptime": "93.95%",
+    "uptime": "93.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 1547,
     "timeWeek": 1394,
     "timeMonth": 1360,
-    "timeYear": 1464,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2025-11-13": 106,
       "2025-11-18": 159,
@@ -46,16 +46,16 @@
     "url": "https://csdc-hchs.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "59.80%",
-    "uptimeWeek": "83.21%",
-    "uptimeMonth": "79.51%",
-    "uptimeYear": "95.05%",
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "57.94%",
+    "uptimeWeek": "81.25%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "95.01%",
     "time": 466,
-    "timeDay": 400,
-    "timeWeek": 453,
-    "timeMonth": 465,
+    "timeDay": 401,
+    "timeWeek": 452,
+    "timeMonth": 464,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2026-08-10": 527,
@@ -115,8 +115,9 @@
       "2026-11-03": 219,
       "2026-11-02": 92,
       "2026-11-05": 429,
-      "2026-11-07": 462,
-      "2026-11-06": 490
+      "2026-11-07": 579,
+      "2026-11-06": 490,
+      "2026-11-08": 81
     }
   },
   {
@@ -134,7 +135,7 @@
     "timeDay": 1740,
     "timeWeek": 1523,
     "timeMonth": 1813,
-    "timeYear": 1571,
+    "timeYear": 1572,
     "dailyMinutesDown": {
       "2025-12-13": 29,
       "2026-01-24": 186,
@@ -156,7 +157,7 @@
     "timeDay": 1295,
     "timeWeek": 1406,
     "timeMonth": 1722,
-    "timeYear": 1402,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2025-12-08": 1303,
       "2025-12-13": 29,
