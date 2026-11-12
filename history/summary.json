@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdc-hchs.blogspot.com.ico",
     "slug": "csdc-blog",
     "status": "down",
-    "uptime": "98.90%",
+    "uptime": "98.89%",
     "uptimeDay": "72.57%",
-    "uptimeWeek": "56.15%",
+    "uptimeWeek": "54.38%",
     "uptimeMonth": "80.08%",
-    "uptimeYear": "94.64%",
+    "uptimeYear": "94.60%",
     "time": 466,
     "timeDay": 458,
     "timeWeek": 433,
@@ -120,7 +120,7 @@
       "2026-11-09": 1188,
       "2026-11-10": 312,
       "2026-11-11": 442,
-      "2026-11-12": 0
+      "2026-11-12": 178
     }
   },
   {
