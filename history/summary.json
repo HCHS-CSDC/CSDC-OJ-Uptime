@@ -45,10 +45,10 @@
     "slug": "csdc-blog",
     "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "88.25%",
     "uptimeWeek": "90.88%",
-    "uptimeMonth": "78.89%",
-    "uptimeYear": "94.17%",
+    "uptimeMonth": "78.51%",
+    "uptimeYear": "94.14%",
     "time": 463,
     "timeDay": 301,
     "timeWeek": 397,
@@ -126,7 +126,7 @@
       "2026-11-22": 211,
       "2026-11-26": 133,
       "2026-11-25": 289,
-      "2026-11-27": 0
+      "2026-11-27": 169
     }
   },
   {
